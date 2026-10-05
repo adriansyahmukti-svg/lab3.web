@@ -1,10 +1,10 @@
-# Laporan Praktikum 3: CSS Dasar
+## penjelasan Praktikum 3: CSS Dasar
 
 Repository ini berisi hasil pelaksanaan Praktikum 3 mata kuliah **Pemrograman Web** di Universitas Pelita Bangsa. Praktikum ini membahas mengenai konsep dasar HTML, penerapannya dengan CSS Internal, Inline CSS, CSS Eksternal, serta penggunaan ID dan Class Selector.
 
 ---
 
-## Ringkasan Langkah Praktikum
+## Langkah Praktikum
 
 ### 1. Membuat Dokumen HTML
 Membuat file `lab2_css_dasar.html` dengan struktur dasar HTML5 yang mencakup bagian `<header>`, `<nav>`, dan kontainer utama `<div id="intro">` yang disiapkan dengan atribut ID dan Class.
@@ -36,11 +36,23 @@ Menambahkan aturan gaya berbasis **ID Selector** (`#intro`) untuk membingkai are
    * Apabila satu elemen memiliki ID dan Class bersamaan, gaya dari **ID Selector** yang akan ditampilkan karena ID memiliki prioritas (*specificity level*) yang lebih tinggi daripada Class.
 
 ---
+# Lampiran
 
-## Cara Menjalankan Project
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/Lab3Web.git
-   ```
-2. Buka file `lab2_css_dasar.html` menggunakan peramban web (browser) pilihan Anda.
+
+
+![img](media/1.png)
+
+![img](media/2.png)
+
+![img](media/3.png)
+
+![img](media/4.png)
+
+![img](media/5.png)
+
+![img](media/6.png)
+
+
+
+
